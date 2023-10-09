@@ -1,0 +1,23 @@
+body{
+    background-color: var(--cuerpo);
+    font-family: 'Roboto', sans-serif;
+}
+
+span{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-custom-success {
+    background-color: #28a745;
+}
+
+.text-custom-success {
+    color: #28a745;
+}
+
+.nav-img{
+    width: 9rem;
+}
+
+
+
